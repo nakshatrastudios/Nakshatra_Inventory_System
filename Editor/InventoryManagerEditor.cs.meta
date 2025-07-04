@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9109f319f3d31d419e9507c2d76ac2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318928
+  packageName: Nakshatra Inventory And Player Stat System
+  packageVersion: 1.0.0
+  assetPath: Assets/Nakshatra Studios/InventorySystem/Editor/InventoryManagerEditor.cs
+  uploadId: 758206

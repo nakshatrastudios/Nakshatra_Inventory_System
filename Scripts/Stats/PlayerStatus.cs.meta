@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: da0a88e39f495c94384d9cbcfe2896d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318928
+  packageName: Nakshatra Inventory And Player Stat System
+  packageVersion: 1.0.0
+  assetPath: Assets/Nakshatra Studios/InventorySystem/Scripts/Stats/PlayerStatus.cs
+  uploadId: 758206

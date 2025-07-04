@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 60611b9b0611ff846a34bea1c8ac4843
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318928
+  packageName: Nakshatra Inventory And Player Stat System
+  packageVersion: 1.0.0
+  assetPath: Assets/Nakshatra Studios/InventorySystem/Scripts/Inventory/InventorySlotUI.cs
+  uploadId: 758206
